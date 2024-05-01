@@ -50,10 +50,9 @@ Exercise 4: Access an array element
 Complete Exercise 4 in the space below:
 */
 
+let favFood = foods[1];;
 
-
-// console.log('Exercise 4 result:', favFood);
-
+console.log('Exercise 4 result:', favFood);
 
 
 /*
