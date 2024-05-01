@@ -144,6 +144,6 @@ Exercise 10: Check for an element
 Complete Exercise 10 in the space below:
 */
 
+let hasSoup = foods.includes('soup');
 
-
-// console.log('Exercise 10 result:', hasSoup);
+console.log('Exercise 10 result:', hasSoup);
